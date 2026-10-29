@@ -1,0 +1,8 @@
+{
+  "name": "StudySync AI Student OS",
+  "description": "AI-powered personal operating system for college students to prioritize workload, schedule tasks, and beat academic overload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
